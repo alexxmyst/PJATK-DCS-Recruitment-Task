@@ -12,5 +12,5 @@ The main measure is ROC-AUC, which evaluates whether corrupted offers tends to r
 ## Project Deliverables
 * EDA notebook notebooks/01_eda_report.ipynb
 * Training and submission notebook notebooks/02_training_pipeline.ipynb
-* Model and validation artifacts outputs/catalogue_submission/
-* Kaggle submission CSV outputs/kaggle_submission/submission.csv
+* Model and validation artifacts 
+* Kaggle submission CSV 
